@@ -45,8 +45,3 @@ pids/
 
 # ESLint cache
 .eslintcache
-
-# Optional lock files
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
