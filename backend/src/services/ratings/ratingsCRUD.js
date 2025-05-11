@@ -88,5 +88,4 @@ export default {
   createRating,
   updateRating,
   deleteRating,
-  getAverageRatingByAttraction,
 };
